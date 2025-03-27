@@ -1,12 +1,12 @@
 # 👋 WELCOME!
 
-Hey there! I'm **Chunhao Jiang**, and I'm thrilled to have you here.
+Hey there! I'm **C. Jiang**.
 
 ---
 
 ## 👨‍🔬 About Me
 
-🎓 I hold both my **Bachelor's** and **Master's degrees** in *Naval Architecture and Ocean Engineering* from **Tianjin University**, and I’m currently a **prospective Ph.D. student at Tsinghua University**.
+I'm currently pursuing my **Master’s degree** in *Naval Architecture and Ocean Engineering* at **Tianjin University**, where I also completed my undergraduate studies here.
 
 My research lies at the intersection of **engineering**, **machine learning**, and **graph neural networks**, with a focus on smart structural design and simulation.
 
