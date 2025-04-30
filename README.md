@@ -8,7 +8,7 @@ Hey there! I'm **C. Jiang**.
 
 I'm currently pursuing my **Master’s degree** in *Naval Architecture and Ocean Engineering* at **Tianjin University**, where I also completed my undergraduate studies here.
 
-My research lies at the intersection of **engineering**, **machine learning**, and **graph neural networks**, with a focus on smart structural design and simulation.
+My research lies at the intersection of ***naval architecture and ocean engineering**, **machine learning**, and **graph neural networks**, with a focus on smart structural design and simulation.
 
 ---
 
@@ -28,19 +28,19 @@ Here are a few works.
   *Marine Structures, 2024*  
   <sub>**Jiang, C**; Lin, Lin; Chen, NZ</sub>
 
-- 🎤 **Monte Carlo Dropout Based Active Learning for Deep Learning in Structural Simulation**  
+- 📑 **Monte Carlo Dropout Based Active Learning for Deep Learning in Structural Simulation**  
   *OMAE 2024, Singapore*  
   <sub>**Jiang, C**; Chen, NZ; Zhao, Z</sub>
 
-- 🎤 **A GNN-based method of acoustic emission source localization for a composite panel**  
+- 📑 **A GNN-based method of acoustic emission source localization for a composite panel**  
   *MARTECH 2024, Lisbon, Portugal*  
   <sub>Zhao, Z; Chen, NZ; **Jiang, C**</sub>
 
-- 🎤 **Deep active learning with KD-Tree based greedy sampling in structural simulation**  
+- 📑 **Deep active learning with KD-Tree based greedy sampling in structural simulation**  
   *MARTECH 2024, Lisbon, Portugal*  
   <sub>**Jiang, C**; Chen, NZ</sub>
   
-- 🎤 **Auxetic-inspired side structures for enhanced collision resistance**  
+- 📑 **Auxetic-inspired side structures for enhanced collision resistance**  
   *ICCGS 2023, Nantes, France*  
   <sub>**Jiang, C**; Chen, NZ</sub>
 
