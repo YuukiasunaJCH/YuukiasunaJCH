@@ -8,7 +8,7 @@ Hey there! I'm **C. Jiang**.
 
 I'm currently pursuing my **Master’s degree** in *Naval Architecture and Ocean Engineering* at **Tianjin University**, where I also completed my undergraduate studies here.
 
-My research lies at the intersection of ***naval architecture and ocean engineering**, **machine learning**, and **graph neural networks**, with a focus on smart structural design and simulation.
+My research lies at the intersection of **naval architecture and ocean engineering**, **deep learning** and **finite element method**, with a focus on smart structural simulation.
 
 ---
 
