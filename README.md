@@ -26,26 +26,26 @@ Here are a few works.
 
 - 📘 **A study on auxetic-inspired side structure for enhanced crashworthiness**  
   *Marine Structures, 2024*  
-  <sub>Jiang, Chunhao; Lin, Lin; Chen, Nian-Zhong</sub>
+  <sub>Jiang, C; Lin, Lin; Chen, NZ</sub>
 
 - 🎤 **Monte Carlo Dropout Based Active Learning for Deep Learning in Structural Simulation**  
-  *OMAE Conference, ASME, 2024*  
-  <sub>Jiang, Chunhao; Chen, Nian-Zhong; Zhao, Zhimin</sub>
-
-- 🎤 **Deep active learning with KD-Tree based greedy sampling in structural simulation**  
-  *IMAMT Conference, CRC Press, 2024*  
-  <sub>Jiang, C; Chen, NZ</sub>
+  *OMAE 2024, Singapore*  
+  <sub>Jiang, C; Chen, NZ; Zhao, Z</sub>
 
 - 🎤 **A GNN-based method of acoustic emission source localization for a composite panel**  
-  *IMAMT Conference, CRC Press, 2024*  
+  *OMAE 2024, Singapore*  
   <sub>Zhao, Z; Chen, NZ; Jiang, C</sub>
+
+- 🎤 **Deep active learning with KD-Tree based greedy sampling in structural simulation**  
+  *MARTECH 2024, Lisbon, Portugal*  
+  <sub>Jiang, C; Chen, NZ</sub>
+  
+- 🎤 **Auxetic-inspired side structures for enhanced collision resistance**  
+  *ICCGS 2023, Nantes, France*  
+  <sub>Jiang, C; Chen, NZ</sub>
 
 - 📘 **Graph Neural Networks (GNNs) based accelerated numerical simulation**  
   *Engineering Applications of Artificial Intelligence, 2023*  
-  <sub>Jiang, Chunhao; Chen, Nian-Zhong</sub>
-
-- 🎤 **Auxetic-inspired side structures for enhanced collision resistance**  
-  *ICCGS Conference, CRC Press, 2023*  
   <sub>Jiang, C; Chen, NZ</sub>
 
 ---
