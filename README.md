@@ -6,7 +6,7 @@ Hey there! I'm **C. Jiang**.
 
 ## 👨‍🔬 About Me
 
-I'm currently a Master's student in Naval Architecture and Ocean Engineering at Tianjin University, where I also completed my undergraduate studies.
+I'm currently a PhD candidate in Civil Engineering at Tsinghua University Shenzhen International Graduate School.
 
 My research lies at the intersection of **naval architecture and ocean engineering**, **deep learning** and **finite element method**, with a focus on smart structural simulation.
 
