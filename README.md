@@ -16,6 +16,10 @@ My research lies at the intersection of **naval architecture and ocean engineeri
 
 Here are a few works. 
 
+- 📘 **G-Twin–Graph neural network-based digital twin for real-time and high-fidelity structural health monitoring for offshore wind turbines: Part Ⅱ. Performance assessment**
+  *Structures, 2025*
+  <sub>L Lin, P Shen, **C Jiang**, Y Lin, NZ Chen, S Zhao</sub>
+
 - 📘 **G-Twin: Graph neural network-based digital twin for real-time and high-fidelity structural health monitoring for offshore wind turbines**  
   *Marine Structures, 2025*  
   <sub>**Jiang, C**; Chen, NZ</sub>
