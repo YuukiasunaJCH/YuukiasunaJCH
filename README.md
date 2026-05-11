@@ -20,6 +20,10 @@ Here are a few works.
   *Ocean Engineering, 2026*  
   <sub>**C Jiang**, Y Li, JM Zhang, S Li, S Chen, NZ Chen, ZZ Hu</sub>
 
+- 📑 **Real-time structural response prediction of subsea storage tanks using reduced-order model**  
+  *IET Conference Proceedings, 2025*  
+  <sub>W Duan, **C Jiang**, Z Hu, Y Li</sub>
+
 - 📘 **G-Twin–Graph neural network-based digital twin for real-time and high-fidelity structural health monitoring for offshore wind turbines: Part Ⅱ. Performance assessment**  
   *Structures, 2025*  
   <sub>L Lin, P Shen, **C Jiang**, Y Lin, NZ Chen, S Zhao</sub>
@@ -35,10 +39,6 @@ Here are a few works.
 - 📘 **A study on auxetic-inspired side structure for enhanced crashworthiness**  
   *Marine Structures, 2024*  
   <sub>**C Jiang**, L Lin, NZ Chen</sub>
-
-- 📑 **Real-time structural response prediction of subsea storage tanks using reduced-order model**  
-  *IET Conference Proceedings, 2025*  
-  <sub>W Duan, **C Jiang**, Z Hu, Y Li</sub>
 
 - 📑 **Monte Carlo Dropout Based Active Learning for Deep Learning in Structural Simulation**  
   *OMAE 2024, Singapore*  
